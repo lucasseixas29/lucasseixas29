@@ -2,7 +2,7 @@
 # Olá pessoal!
 
 Meu nome é **Luis Lucas Seixas** e sou Analista de Dados, atualmente trabalho na DBC Company como Analista de Dados, alocado em projetos internos na Repom S.A (Edenred), estou cursando o 4° semestre de Análise e Desenvolvimento de Sistemas. 
-Estudo programação desde 2022. Em Janeiro de 2023 comecei no Programa Desenvolve ( Um programa do Grupo Boticário em parceria com Alura ), curso com a trilha FullStack onde aprendi bastante Javascript, NodeJS, Express, React. E em 2024 particiéi do Programa Vem Ser na DBC Company na trilha de Back-end em Java, Spring e com especialização na trilha de Dados, que foi a carreira que preferir seguir, que me apaixonei em fazer análises e gerar insights para resolver problemas. 
+Estudo programação desde 2022. Em Janeiro de 2023 comecei no Programa Desenvolve ( Um programa do Grupo Boticário em parceria com Alura ), curso com a trilha FullStack onde aprendi bastante Javascript, NodeJS, Express, React. E em 2024 participei do Programa Vem Ser(Estágio) na DBC Company na trilha de Back-end em Java, Spring e com especialização na trilha de Dados, que foi a carreira que preferir seguir, que me apaixonei em fazer análises e gerar insights para resolver problemas. 
 
 
 
